@@ -1,11 +1,11 @@
-# Augmented Finance Liquidation bot.
+# Augmented Finance Liquidator
 
-This bot could be used for autonomous search and liquidate unhealthy loans and earn liquidation penalties in Augmented Finance protocol.
+This script could be used for automatic search and liquidation of unhealthy loans and earn liquidation penalties in Augmented Finance protocol.
 You also could use this codebase in your ow liquidation services.
 
 Functionality:
 
-- search for accounts with unhealthy loans
+- search for wallets with unhealthy loans
 - calculate profits
 - output details of unhealthy loan if its profitable to liquidate
 - execute liquidation of the loans
